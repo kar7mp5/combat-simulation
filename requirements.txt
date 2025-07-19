@@ -1,0 +1,5 @@
+notebook
+
+# Mathmetics
+numpy
+matplotlib
